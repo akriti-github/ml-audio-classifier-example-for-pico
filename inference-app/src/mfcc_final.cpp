@@ -1,6 +1,6 @@
 #include <string.h>
 
-#include "mfcc.h"
+#include "mfccfinal.h"
 #include "float.h"
 
 MFCC::MFCC(int num_mfcc_features, int frame_len, int mfcc_dec_bits) 
